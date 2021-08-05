@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/heefile/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to 김은희 선생님 방
+오늘 처음 챗봇 방을 만들어 봄
+오예~~
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
